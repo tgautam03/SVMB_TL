@@ -15,8 +15,11 @@ As the dataset was quite large, we split the dataset into 4 subsets with an appr
 
 #### Loss curves
 ![subset 1](https://github.com/tgautam03/SVMB_TL/blob/master/Images/loss_curves/DI_DC/images/NN3_set1_16bit.png)
+
 ![subset 2](https://github.com/tgautam03/SVMB_TL/blob/master/Images/loss_curves/DI_DC/images/NN3_set2_16bit.png)
+
 ![subset 3](https://github.com/tgautam03/SVMB_TL/blob/master/Images/loss_curves/DI_DC/images/NN3_set3_16bit.png)
+
 ![subset 4](https://github.com/tgautam03/SVMB_TL/blob/master/Images/loss_curves/DI_DC/images/NN3_set4_16bit.png)
 
 #### Predictions
