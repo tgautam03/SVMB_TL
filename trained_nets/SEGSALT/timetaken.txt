@@ -1,0 +1,9 @@
+FINE TUNINING
+set 304 : 3 minutes to train
+set 608 : 4 minutes to train
+set 1024 : 10 minutes to train
+
+FRESH TRAINING
+set 304 : 3 minutes to train
+set 608 :  minutes to train
+set 1024 :  minutes to train
