@@ -1,0 +1,64 @@
+Time taken to train DUTCH for set1: 1401.789428949356 seconds
+
+Time taken to train DUTCH for set2: 500.9395716190338 seconds
+
+Time taken to train DUTCH for set3: 577.7905716896057 seconds
+
+Time taken to train DUTCH for set4: 460.91267919540405 seconds
+
+Time taken to train SEGSALT for 304 fresh_training: 140.68847179412842 seconds
+
+Time taken to train SEGSALT for 608 fresh_training: 403.3144483566284 seconds
+
+Time taken to train SEGSALT for 1014 fresh_training: 552.7726032733917 seconds
+
+Time taken to train SEGSALT for 304 fine_tuning: 143.60271382331848 seconds
+
+Time taken to train SEGSALT for 608 fine_tuning: 342.91337633132935 seconds
+
+Time taken to train SEGSALT for 1014 fine_tuning: 1187.3309972286224 seconds
+
+Time taken to predict DUTCH for set_num4: 13.008401155471802 seconds
+ Evaluation metrics :[0.036815237156846974, 0.036815237]
+
+
+
+Time taken to predict fine_tuning and fresh_training SEGSALT for set_num304: 19.57505989074707 seconds
+ Evaluation metrics fine_tuning:[0.023285560659943215, 0.023285568]
+ Evaluation metrics fresh_training:[0.06283468002855362, 0.06283467]
+
+Time taken to predict fine_tuning and fresh_training SEGSALT for set_num608: 12.693295001983643 seconds
+ Evaluation metrics fine_tuning:[0.019469249699736985, 0.019469254]
+ Evaluation metrics fresh_training:[0.05246711839252794, 0.0524671]
+
+Time taken to predict fine_tuning and fresh_training SEGSALT for set_num1014: 9.191758394241333 seconds
+ Evaluation metrics fine_tuning:[0.006880728919169254, 0.0068807285]
+ Evaluation metrics fresh_training:[0.024742102577430022, 0.024742102]
+
+Time taken to predict SEGSALT using network trained on DI_DC set_num4: 10.882563829421997 seconds
+ Evaluation metrics :[0.21732592244707857, 0.2173259]
+ 
+Time taken to predict fine_tuning and fresh_training SEGSALT for set_num304: 16.105122327804565 seconds
+ Evaluation metrics fine_tuning:[0.023285429367229445, 0.02328543]
+ Evaluation metrics fresh_training:[0.06283476449151604, 0.06283475]
+
+Time taken to predict fine_tuning and fresh_training SEGSALT for set_num608: 13.048197746276855 seconds
+ Evaluation metrics fine_tuning:[0.01946921078619403, 0.01946921]
+ Evaluation metrics fresh_training:[0.052466439560685356, 0.052466437]
+
+Time taken to predict fine_tuning and fresh_training SEGSALT for set_num1014: 9.02535104751587 seconds
+ Evaluation metrics fine_tuning:[0.006880772300064564, 0.006880772]
+ Evaluation metrics fresh_training:[0.02474153625982753, 0.024741538]
+
+Time taken to predict fine_tuning and fresh_training SEGSALT for set_num304: 17.60062265396118 seconds
+ Evaluation metrics fine_tuning:[0.023285429367229445, 0.02328543]
+ Evaluation metrics fresh_training:[0.06283476449151604, 0.06283475]
+
+Time taken to predict fine_tuning and fresh_training SEGSALT for set_num608: 12.45769476890564 seconds
+ Evaluation metrics fine_tuning:[0.01946921078619403, 0.01946921]
+ Evaluation metrics fresh_training:[0.052466439560685356, 0.052466437]
+
+Time taken to predict fine_tuning and fresh_training SEGSALT for set_num1014: 9.068275690078735 seconds
+ Evaluation metrics fine_tuning:[0.006880772300064564, 0.006880772]
+ Evaluation metrics fresh_training:[0.02474153625982753, 0.024741538]
+
