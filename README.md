@@ -89,6 +89,25 @@ Velocity models are plotted followed by the vertical velocity profile for the sa
 ## Conclusion
 Prediction of Velocity Models using CNN, heavily relies on the distribution of training and testing dataset. Results are quite good if the training and the testing data sets have similar settings but the accuracy takes a hit when the two settings are different. However, if we use fine-tuning on a very small subset, we get exponentially better results.
 
+## Code Description
+Contents of the repository are described as follows:
+-	Images folder contains the figures (both training curves and predictions) shown in this work. 
+-	Trained_nets folder contains the final trained CNNs used for predictions.
+-	DI_DC_tiles.zip contains the ‘Synthetic Velocity Models’
+-	All the other python files (*.py) has the code used to produce the results shown in this work.
+
+The code was written in python 3 (https://www.python.org/download/releases/3.0/) and the list of libraries used in this work are as follows:
+-	Numpy (https://numpy.org/)
+-	Matplotlib (https://matplotlib.org/)
+-	Scikit-learn (https://scikit-learn.org/)
+-	Tensorflow 2.1 (https://www.tensorflow.org/)
+-	Pandas (https://pandas.pydata.org/)
+-	Devito (https://github.com/devitocodes/devito)
+-	Keras (https://keras.io/)
+-	Scipy (https://www.scipy.org/)
+
+All the libraries described above are open-source.
+
 ## References
 - Aminzadeh, F., Brac, J. & Kunz, T., 1997. 3D Salt and Overthrust models: Presented at the SEG. s.l., s.n.
 - Louboutin, M. et al., 2018. Devito: an embedded domain-specific language for finite differences and geophysical exploration. arXiv preprint arXiv:1808.01995.
@@ -97,6 +116,9 @@ Prediction of Velocity Models using CNN, heavily relies on the distribution of t
 - Tan, C. et al., 2018. A survey on deep transfer learning. Cham, Springer, pp. pp. 270-279.
 - Wu, Y. and Lin, Y., 2019. InversionNet: An Efficient and Accurate Data-Driven Full Waveform Inversion. IEEE Transactions on Computational Imaging , Volume 6, pp. 419-433.
 - Yang, F. and Ma, J., 2019. Deep-learning inversion: A next-generation seismic velocity model building method. Geophysics , 84(4), pp. R583-R599.
+- Maitre, J., Bouchard, K. & Bédard, L., 2019. Mineral grains recognition using computer vision and machine learning. Computers & Geosciences, Volume 130, pp. 84-93.
+- Fang, Z., Wang, Y., Peng, L. & Hong, H., 2020. Integration of convolutional neural network and conventional machine learning classifiers for landslide susceptibility mapping. Computers & Geosciences, Volume 139, p. 104470.
+- Cunha, A., Pochet, A., Lopes, H. & Gattass, M., 2020. Seismic fault detection in real data using transfer learning from a convolutional neural network pre-trained with synthetic seismic data. Computers & Geosciences, 135(104344).
 
 ## Note
 For additional imformation on plots and metrics, visit [trained_nets](https://github.com/tgautam03/SVMB_TL/tree/master/Images).
