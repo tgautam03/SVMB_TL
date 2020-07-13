@@ -121,6 +121,6 @@ All the libraries described above are open-source.
 - Cunha, A., Pochet, A., Lopes, H. & Gattass, M., 2020. Seismic fault detection in real data using transfer learning from a convolutional neural network pre-trained with synthetic seismic data. Computers & Geosciences, 135(104344).
 
 ## Note
-For additional imformation on plots and metrics, visit [trained_nets](https://github.com/tgautam03/SVMB_TL/tree/master/Images).
+For additional information on plots and metrics, visit [trained_nets](https://github.com/tgautam03/SVMB_TL/tree/master/Images).
 
 Contact : [Tushar Gautam](mailto:tushariitr3@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
